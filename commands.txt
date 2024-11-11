@@ -1,0 +1,7 @@
+npm i lucide react
+npm i react-router-dom
+npm create vite@latest
+npm i zustand // used for global state management
+npm i cors
+
+npm i react-hot-toast
